@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Werner</h1>
 <h3 align="center">A passionate frontend developer from Norway, currently studying at Noroff.</h3>
 
-📫 How to reach me: **hamre.dev@gmail.com**
 
-<h3 align="left">Connect with me: **hamre.dev@gmail.com** 📫 </h3>
+<h3 align="left">Connect with me: </h3> **hamre.dev@gmail.com** 📫
 <p align="left">
 </p>
 
