@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Norway, currently studying at Noroff.</h3>
 
 
-<h3 align="center">Connect with me: </h3><a align="center" href="mailto:hamre.dev@gmail.com">Werner Hamre</a> 
+<h3 align="center">Connect with me: <a align="center" href="mailto:hamre.dev@gmail.com">Werner Hamre</a></h3> 
 <p align="center">
 </p>
 
