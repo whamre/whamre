@@ -3,7 +3,7 @@
 
 
 <h3 align="center">Connect with me: </h3> 
-<a align="center" href="mailto:hamre.dev@gmail.com">Werner Hamre</a>
+<a href="mailto:hamre.dev@gmail.com">Werner Hamre</a>
 <p align="center">
 </p>
 
