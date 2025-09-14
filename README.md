@@ -4,6 +4,6 @@
 
 <h3 align="center">Connect with me: <a align="center" href="mailto:hamre.dev@gmail.com">Werner Hamre</a></h3> 
 
-
+[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
 </div>
